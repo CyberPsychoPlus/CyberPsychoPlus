@@ -7,15 +7,10 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-### Skills
-
-<p align="left">
-ICON ICON ICON
-</p>
+<h3 align="left">💻 Skills:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ### ⚙️ Github Stats:
-
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/CyberPsychoPlus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberPsychoPlus&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
