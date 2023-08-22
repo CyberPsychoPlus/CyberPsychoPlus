@@ -8,7 +8,7 @@
 </p>
 
 ### Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=47C5FB)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=00FF00)
 
 ### ⚙️ GitHub статистика:
 
