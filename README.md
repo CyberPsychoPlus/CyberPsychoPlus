@@ -12,12 +12,8 @@
 
 ### ⚙️ GitHub статистика:
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=CyberPsychoPlus&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-</table>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberpsychoplus&show_icons=true&locale=en&layout=compact" alt="cyberpsychoplus" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberpsychoplus&" alt="cyberpsychoplus" /></p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CyberPsychoPlus)
