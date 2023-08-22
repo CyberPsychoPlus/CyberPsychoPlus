@@ -10,6 +10,7 @@
 ### Languages and Tools:
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=FF6600)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=00FF00)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-090909?style=for-the-badge&logo=ChatGPT&logoColor=79B121)
 
 ### ⚙️ GitHub статистика:
 
