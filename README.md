@@ -9,9 +9,8 @@
 
 ### Languages and Tools:
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=FF6600)
-![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=00FF00)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-090909?style=for-the-badge&logo=ChatGPT&logoColor=79B121)
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ### ⚙️ GitHub статистика:
 
