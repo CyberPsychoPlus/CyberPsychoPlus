@@ -23,6 +23,7 @@
     <td>
       <img height="200px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CyberPsychoPlus&layout=compact&theme=vision-friendly-dark" />
     </td>
+     </td>
   </tr>
 </table>
 
