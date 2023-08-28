@@ -9,6 +9,7 @@
 
 ### 💻 Skills:
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=FF6600)
+![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=Github&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=008000)
 
 ### ⚙️ Github Stats:
