@@ -32,6 +32,6 @@
 
 ### ⚙️ Статистика Github:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberpsychoPlus&show_icons=true&theme=midnight-purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberPsychoPlus&theme=midnight_purple&) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyberPsychoPlus&theme=midnight_purple)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CyberPsychoPlus)
