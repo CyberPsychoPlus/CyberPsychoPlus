@@ -32,6 +32,6 @@
 
 ### ⚙️ Статистика Github:
 
-<a href="https://github.com/CyberPsychoPlus " align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberPsychoPlus &langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberpsychoPlus&show_icons=true&theme=midnight-purple)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CyberPsychoPlus)
