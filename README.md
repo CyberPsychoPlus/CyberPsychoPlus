@@ -9,15 +9,11 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> **Основні напрямки мого робочого інтересу:**
 
- - **Python:** Я вивчаю і практикую Python - потужну мову програмування, яка є важливою для багатьох сучасних розробок.
-
- - **Web-розробка:** Мої навички охоплюють веб-розробку з використанням фреймворків Flask і Django. Я активно працюю над створенням високоефективних та надійних back end рішень для веб-додатків.
+ - **Web-розробка:** Мої навички охоплюють розробку веб-інтерфейсів з використанням сучасних фронтенд технологій та фреймворків. Я активно працюю над створенням користувацьких інтерфейсів, які є як візуально привабливими, так і добре взаємодіють з користувачами. Моя мета - створювати функціональні та естетичні веб-додатки.
 
  - **Криптовалюта:** Я захоплений блокчейн-технологією та криптовалютами. Вважаю, що ці технології мають великий потенціал для зміни світу.
 
  - **Телеграм боти:** Я також вивчаю розробку та налаштування телеграм ботів. Це захоплива галузь, яка дозволяє автоматизувати багато різних завдань та спрощує комунікацію з користувачами.
-
- 📂 У цьому репозиторії ви знайдете різноманітні проекти, навчальні матеріали та приклади коду, які відображають мій розвиток в цих напрямках. Я завжди відкритий до зворотного зв'язку та співпраці, тож не соромтеся зв'язатися зі мною, якщо ви маєте   питання, пропозиції або хочете обговорити спільні проекти.
 
  🌱 Незважаючи на мої досягнення, я постійно розвиваю свої навички та вивчаю нові технології, щоб бути в курсі останніх трендів у своїй галузі.
 
@@ -27,8 +23,23 @@
 
 ### 💻 Мої навички:
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a></p>
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### 🛠 Инструменты:
+
+<div>
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" title="metamask" alt="metamask" width="40" height="40"/>&nbsp;
+</div>
 
 ---
 
