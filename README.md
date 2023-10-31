@@ -33,7 +33,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Інструменти:
 
 <div>
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
@@ -49,6 +49,7 @@
 
 ### ⚙️ Статистика Github:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberPsychoPlus&theme=midnight_purple&) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyberPsychoPlus&theme=midnight_purple)
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=CyberPsychoPlus&theme=dark&background=000000" alt="webDev's Github stats" />
+<img height="195px" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CyberPsychoPlus&layout=compact&theme=vision-friendly-dark" />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CyberPsychoPlus)
