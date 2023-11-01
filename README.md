@@ -36,9 +36,9 @@
 ### 🛠 Інструменти:
 
 <div>
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" title="metamask" alt="metamask" width="40" height="40"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" title="metamask" alt="metamask" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -49,7 +49,15 @@
 
 ### ⚙️ Статистика Github:
 
-<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=CyberPsychoPlus&theme=dark&background=000000" alt="webDev's Github stats" />
-<img height="195px" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CyberPsychoPlus&layout=compact&theme=vision-friendly-dark" />
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=CyberPsychoPlus&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CyberPsychoPlus&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CyberPsychoPlus)
